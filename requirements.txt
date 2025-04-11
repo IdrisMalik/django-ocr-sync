@@ -1,0 +1,8 @@
+Django>=4.0,<5.0
+requests>=2.20
+pillow>=9.0
+pytesseract>=0.3.8
+opencv-python-headless>=4.5
+google-generativeai>=0.4 # Check for latest stable version
+python-dotenv>=0.20
+gunicorn # Optional, for production WSGI server
